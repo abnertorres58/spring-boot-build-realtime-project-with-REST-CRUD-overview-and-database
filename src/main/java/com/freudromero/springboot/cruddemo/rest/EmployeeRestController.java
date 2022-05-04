@@ -1,6 +1,5 @@
 package com.freudromero.springboot.cruddemo.rest;
 
-import com.freudromero.springboot.cruddemo.dao.EmployeeDAO;
 import com.freudromero.springboot.cruddemo.entity.Employee;
 import com.freudromero.springboot.cruddemo.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
